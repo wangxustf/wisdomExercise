@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>wisdom.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>wisdomExercise.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +18,16 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>7878F1331BE9DD4000C1F50E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7878F15F1BE9E96600C1F50E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7878F17F1BE9F37500C1F50E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
